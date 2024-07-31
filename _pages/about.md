@@ -15,7 +15,7 @@ redirect_from:
 1. Check status by going to the repository settings, in the "GitHub pages" section
 
 
-Getting started
+为您提供专业的统计建模与数据分析服务
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
